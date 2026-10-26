@@ -483,6 +483,54 @@ const paintings = [
     image: 'img/80.webp',
     title: 'La Dame en blanc',
     artist: 'Marie Bracquemond'
+  },
+  {
+    id: 81,
+    image: 'img/81.webp',
+    title: 'La Grande Odalisque',
+    artist: 'Jean-Auguste-Dominique Ingres'
+  },
+  {
+    id: 82,
+    image: 'img/82.webp',
+    title: 'La Tour de Babel',
+    artist: 'Pieter Brueghel l\'Ancien'
+  },
+  {
+    id: 83,
+    image: 'img/83.webp',
+    title: 'L\'Apogée',
+    artist: 'Thomas Cole'
+  },
+  {
+    id: 84,
+    image: 'img/84.webp',
+    title: 'La Vénus d\'Urbin',
+    artist: 'Titien'
+  },
+  {
+    id: 85,
+    image: 'img/85.webp',
+    title: 'Ophélie',
+    artist: 'John Everett Millais'
+  },
+  {
+    id: 86,
+    image: 'img/86.webp',
+    title: 'Les Ambassadeurs',
+    artist: 'Hans Holbein le Jeune'
+  },
+  {
+    id: 87,
+    image: 'img/87.webp',
+    title: 'L\'Adoration des mages',
+    artist: 'Sandro Botticelli'
+  },
+  {
+    id: 88,
+    image: 'img/88.webp',
+    title: 'La Bohémienne endormie',
+    artist: 'Henri Rousseau'
   }
 ]
 
